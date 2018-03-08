@@ -1,0 +1,257 @@
+.icon-and {
+  background-image: url(../../img/sprite.png);
+  background-position: -160px -48px;
+  width: 22px;
+  height: 20px; }
+
+.icon-arrow-left-blue-small {
+  background-image: url(../../img/sprite.png);
+  background-position: -182px -67px;
+  width: 6px;
+  height: 10px; }
+
+.icon-arrow-left-green {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px -157px;
+  width: 12px;
+  height: 20px; }
+
+.icon-arrow-left-white-small {
+  background-image: url(../../img/sprite.png);
+  background-position: -188px -67px;
+  width: 6px;
+  height: 10px; }
+
+.icon-arrow-light-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -160px -125px;
+  width: 12px;
+  height: 20px; }
+
+.icon-arrow-right-blue-small {
+  background-image: url(../../img/sprite.png);
+  background-position: -182px -57px;
+  width: 6px;
+  height: 10px; }
+
+.icon-arrow-right-green {
+  background-image: url(../../img/sprite.png);
+  background-position: -118px -77px;
+  width: 12px;
+  height: 20px; }
+
+.icon-arrow-right-white-small {
+  background-image: url(../../img/sprite.png);
+  background-position: -188px -57px;
+  width: 6px;
+  height: 10px; }
+
+.icon-arrow-right-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -160px -105px;
+  width: 12px;
+  height: 20px; }
+
+.icon-download {
+  background-image: url(../../img/sprite.png);
+  background-position: -182px -15px;
+  width: 15px;
+  height: 13px; }
+
+.icon-eye-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -12px -163px;
+  width: 19px;
+  height: 11px; }
+
+.icon-eye-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -31px -163px;
+  width: 19px;
+  height: 11px; }
+
+.icon-invalid-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -108px -129px;
+  width: 24px;
+  height: 24px; }
+
+.icon-invalid-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -84px -129px;
+  width: 24px;
+  height: 24px; }
+
+.icon-mail-black {
+  background-image: url(../../img/sprite.png);
+  background-position: -160px -145px;
+  width: 18px;
+  height: 12px; }
+
+.icon-marker-black {
+  background-image: url(../../img/sprite.png);
+  background-position: -160px -86px;
+  width: 14px;
+  height: 19px; }
+
+.icon-marker-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -182px -41px;
+  width: 12px;
+  height: 16px; }
+
+.icon-pdf {
+  background-image: url(../../img/sprite.png);
+  background-position: -160px -24px;
+  width: 22px;
+  height: 24px; }
+
+.icon-persona {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px -77px;
+  width: 44px;
+  height: 52px; }
+
+.icon-phone-black {
+  background-image: url(../../img/sprite.png);
+  background-position: -160px -68px;
+  width: 18px;
+  height: 18px; }
+
+.icon-phone-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -104px -57px;
+  width: 15px;
+  height: 16px; }
+
+.icon-play-big {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px 0px;
+  width: 76px;
+  height: 77px; }
+
+.icon-play-small {
+  background-image: url(../../img/sprite.png);
+  background-position: -44px -77px;
+  width: 46px;
+  height: 47px; }
+
+.icon-plus {
+  background-image: url(../../img/sprite.png);
+  background-position: -76px 0px;
+  width: 56px;
+  height: 57px; }
+
+.icon-printer-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -182px -28px;
+  width: 15px;
+  height: 13px; }
+
+.icon-quote-big {
+  background-image: url(../../img/sprite.png);
+  background-position: -76px -57px;
+  width: 28px;
+  height: 19px; }
+
+.icon-quote-small {
+  background-image: url(../../img/sprite.png);
+  background-position: -132px -112px;
+  width: 23px;
+  height: 14px; }
+
+.icon-search {
+  background-image: url(../../img/sprite.png);
+  background-position: -182px 0px;
+  width: 15px;
+  height: 15px; }
+
+.icon-social-fb-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -132px -84px;
+  width: 28px;
+  height: 28px; }
+
+.icon-social-fb-green {
+  background-image: url(../../img/sprite.png);
+  background-position: -28px -129px;
+  width: 28px;
+  height: 28px; }
+
+.icon-social-insta-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -132px -28px;
+  width: 28px;
+  height: 28px; }
+
+.icon-social-insta-green {
+  background-image: url(../../img/sprite.png);
+  background-position: -132px 0px;
+  width: 28px;
+  height: 28px; }
+
+.icon-social-tweet-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px -129px;
+  width: 28px;
+  height: 28px; }
+
+.icon-social-tweet-green {
+  background-image: url(../../img/sprite.png);
+  background-position: -90px -77px;
+  width: 28px;
+  height: 28px; }
+
+.icon-social-vk-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -56px -129px;
+  width: 28px;
+  height: 28px; }
+
+.icon-social-vk-green {
+  background-image: url(../../img/sprite.png);
+  background-position: -132px -56px;
+  width: 28px;
+  height: 28px; }
+
+.icon-title-after-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -50px -157px;
+  width: 38px;
+  height: 6px; }
+
+.icon-title-after-green {
+  background-image: url(../../img/sprite.png);
+  background-position: -90px -117px;
+  width: 38px;
+  height: 6px; }
+
+.icon-title-after-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -90px -111px;
+  width: 38px;
+  height: 6px; }
+
+.icon-title-before-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -90px -105px;
+  width: 38px;
+  height: 6px; }
+
+.icon-title-before-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -12px -157px;
+  width: 38px;
+  height: 6px; }
+
+.icon-word {
+  background-image: url(../../img/sprite.png);
+  background-position: -160px 0px;
+  width: 22px;
+  height: 24px; }
+
+.icon-zip {
+  background-image: url(../../img/sprite.png);
+  background-position: -132px -129px;
+  width: 22px;
+  height: 24px; }
